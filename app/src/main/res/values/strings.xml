@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_version_v1_0">App Version v1.0</string>
+    <string name="amadi">Amadhi</string>
+    <string name="developer">Developer</string>
+    <string name="embark_on_an_enlightening_journey_through_time_with_our_history_quiz_game_delve_into_the_depths_of_the_past_as_you_test_your_knowledge_across_various_epochs_civilizations_and_pivotal_moments_in_human_history_are_you_ready_to_become_a_master_of_the_past_play_now_and_let_the_adventure_begin">Embark on an enlightening journey through time with our History Quiz Game! Delve into the depths of the past as you test your knowledge across various epochs, civilizations, and pivotal moments in human history.Are you ready to become a master of the past? Play now and let the adventure begin!</string>
+    <string name="high_score_0">High Score: 0</string>
+    <string name="exit_quiz_confirmation">Are you sure you want to exit the quiz?</string>
+
+</resources>

@@ -1,0 +1,68 @@
+{
+  "easyquestions": [
+    {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "answer1": "A) France",
+      "answer2": "B) Brazil",
+      "answer3": "C) Germany",
+      "answer4": "D) Argentina",
+      "correct": "A) France"
+    },
+    {
+      "question": "Which cereal grain is the most commonly used in beer?",
+      "answer1": "A) corn",
+      "answer2": "B) wheat",
+      "answer3": "C) barley",
+      "answer4": "D) hops",
+      "correct": "C) hops"
+    },
+    {
+      "question": " What country is Shakura flower is from??",
+      "answer1": "A) japan",
+      "answer2": "B) colombia",
+      "answer3": "C) nepal",
+      "answer4": "D) chaina",
+      "correct": "A) japan"
+    },
+    {
+      "question": "What was the ancient Goddess of Love?",
+      "answer1": "A) helena",
+      "answer2": "B) venus",
+      "answer3": "C) hera",
+      "answer4": "D) medusa",
+      "correct": "B) venues"
+    },
+    {
+      "question": "What is the hardest natural substance in the world?",
+      "answer1": "A) diamond",
+      "answer2": "B) granite",
+      "answer3": "C) mable",
+      "answer4": "D) ruby",
+      "correct": "A) diamond"
+    },
+    {
+      "question": "Which animal has the largest eyes?",
+      "answer1": "A) blue whale",
+      "answer2": "B) giant squid",
+      "answer3": "C) Ostrich",
+      "answer4": "D) owl",
+      "correct": "B) giant squid"
+    },
+    {
+      "question": " What is the airspeed velocity of an unladen swallow?",
+      "answer1": "A) 48 MPH",
+      "answer2": "B) 34 MPH",
+      "answer3": "C) 24 MPH",
+      "answer4": "D) 58 MPH",
+      "correct": "C) 24 MPH"
+    },
+    {
+      "question": "25. What animal is known to be ‘man’s best friend?",
+      "answer1": "A) Dog",
+      "answer2": "B) Wolf",
+      "answer3": "C) Cat",
+      "answer4": "D) Horse",
+      "correct": "A) Dog"
+    }
+  ]
+}

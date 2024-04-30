@@ -1,0 +1,68 @@
+{
+  "difficultquestions": [
+    {
+      "question": "how meny infinity stones are there",
+      "answer1": "A) 7",
+      "answer2": "B) 5",
+      "answer3": "C) 6",
+      "answer4": "D) 3",
+      "correct": "A) 7"
+    },
+    {
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "answer1": "A) Brazil",
+      "answer2": "B) Germany",
+      "answer3": "C) Italy",
+      "answer4": "D) Argentina",
+      "correct": "A) Brazil"
+    },
+    {
+      "question": "What is the only food that cannot go bad?",
+      "answer1": "A) chocolate",
+      "answer2": "B) honey",
+      "answer3": "C) butter",
+      "answer4": "D) sugar syrup",
+      "correct": "B) honey"
+    },
+    {
+      "question": " What’s the name of Hagrid’s pet spider'?",
+      "answer1": "A) nagini",
+      "answer2": "B) Aragog",
+      "answer3": "C) mosang",
+      "answer4": "D) padfoot",
+      "correct": "B) Aragog"
+    },
+    {
+      "question": "What element does the chemical symbol au stand for??",
+      "answer1": "A) gold",
+      "answer2": "B) silver",
+      "answer3": "C) magnisiuem",
+      "answer4": "D) austin",
+      "correct": "A) gold"
+    },
+    {
+      "question": "Which football club has won the most UEFA Champions League titles?",
+      "answer1": "A) Real Madrid",
+      "answer2": "B) FC Barcelona",
+      "answer3": "C) Bayern Munich",
+      "answer4": "D) AC Milan",
+      "correct": "A) Real Madrid"
+    },
+    {
+      "question": "What is the name of the coffee shop in the sitcom Friends",
+      "answer1": "A) central park",
+      "answer2": "B) java park",
+      "answer3": "C) centarl park coffee",
+      "answer4": "D) central perk",
+      "correct": "D) central perk"
+    },
+    {
+      "question": "The first vaccine was for which disease?",
+      "answer1": "A) polio",
+      "answer2": "B) moneky pox",
+      "answer3": "C) small pox",
+      "answer4": "D) chikenpox",
+      "correct": "C) small pox"
+    }
+  ]
+}
